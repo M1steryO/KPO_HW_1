@@ -1,0 +1,12 @@
+/Users/dmitrypeschansky/Projects/ZooManagementSystem/ZooManagementSystem/bin/Debug/net7.0/ZooManagementSystem.deps.json
+/Users/dmitrypeschansky/Projects/ZooManagementSystem/ZooManagementSystem/bin/Debug/net7.0/ZooManagementSystem.dll
+/Users/dmitrypeschansky/Projects/ZooManagementSystem/ZooManagementSystem/bin/Debug/net7.0/ZooManagementSystem.pdb
+/Users/dmitrypeschansky/Projects/ZooManagementSystem/ZooManagementSystem/obj/Debug/net7.0/ZooManagementSystem.csproj.AssemblyReference.cache
+/Users/dmitrypeschansky/Projects/ZooManagementSystem/ZooManagementSystem/obj/Debug/net7.0/ZooManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrypeschansky/Projects/ZooManagementSystem/ZooManagementSystem/obj/Debug/net7.0/ZooManagementSystem.AssemblyInfoInputs.cache
+/Users/dmitrypeschansky/Projects/ZooManagementSystem/ZooManagementSystem/obj/Debug/net7.0/ZooManagementSystem.AssemblyInfo.cs
+/Users/dmitrypeschansky/Projects/ZooManagementSystem/ZooManagementSystem/obj/Debug/net7.0/ZooManagementSystem.csproj.CoreCompileInputs.cache
+/Users/dmitrypeschansky/Projects/ZooManagementSystem/ZooManagementSystem/obj/Debug/net7.0/ZooManagementSystem.dll
+/Users/dmitrypeschansky/Projects/ZooManagementSystem/ZooManagementSystem/obj/Debug/net7.0/refint/ZooManagementSystem.dll
+/Users/dmitrypeschansky/Projects/ZooManagementSystem/ZooManagementSystem/obj/Debug/net7.0/ZooManagementSystem.pdb
+/Users/dmitrypeschansky/Projects/ZooManagementSystem/ZooManagementSystem/obj/Debug/net7.0/ref/ZooManagementSystem.dll

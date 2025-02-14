@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{DC76A75F-DA5E-40E5-9F43-6153ED412B73}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="tests/VeterinaryClinicTests.cs">
+    <Files>
+      <File FileName="Monkey.cs" Line="1" Column="14" IsPinned="True" />
+      <File FileName="EmptyClass.cs" Line="1" Column="20" />
+      <File FileName="Animal.cs" Line="1" Column="1" />
+      <File FileName="Herbo.cs" Line="1" Column="14" />
+      <File FileName="Predator.cs" Line="1" Column="14" />
+      <File FileName="Rabbit.cs" Line="1" Column="14" />
+      <File FileName="ZooTests.cs" Line="8" Column="17" />
+      <File FileName="VeterinaryClinicTests.cs" Line="10" Column="11" />
+      <File FileName="Program.cs" Line="16" Column="38" />
+      <File FileName="ZooManagementSystem/src/Zoo.ConsoleApp/Program.cs" Line="5" Column="1" />
+      <File FileName="ZooManagementSystem/src/Zoo.Core/Inventory/Computer.cs" Line="5" Column="16" />
+      <File FileName="ZooManagementSystem/src/Zoo.Core/Inventory/Table.cs" Line="3" Column="27" />
+      <File FileName="ZooManagementSystem/src/Zoo.Core/Inventory/Thing.cs" Line="8" Column="1" />
+      <File FileName="ZooManagementSystem/src/Zoo.Infrastructure/VeterinaryClinic.cs" Line="5" Column="18" />
+      <File FileName="ZooManagementSystem/src/Zoo.Infrastructure/Zoo.cs" Line="32" Column="40" />
+      <File FileName="ZooManagementSystem/src/Core/Animals/Tiger.cs" Line="1" Column="14" />
+      <File FileName="ZooManagementSystem/src/Core/Animals/Wolf.cs" Line="1" Column="14" />
+      <File FileName="ZooManagementSystem/src/Core/IInventory.cs" Line="1" Column="19" />
+      <File FileName="../../.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.2/buildTransitive/netcoreapp2.0/Microsoft.Extensions.DependencyInjection.Abstractions.targets" Line="4" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ZooManagementSystem" expanded="True">
+            <Node name="tests" selected="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="ZooManagementSystem" expanded="True">
+              <Node name="src" expanded="True">
+                <Node name="ConsoleApp" expanded="True" />
+                <Node name="Core" expanded="True">
+                  <Node name="Animals" expanded="True" />
+                  <Node name="Inventory" expanded="True" />
+                </Node>
+                <Node name="Infrastructure" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

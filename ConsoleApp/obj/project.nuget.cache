@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "r8QmH0w5CIW4K3iwRKOvPr++YnbyTq9fL5mDeM1+4pFUy+gSzzIdqCDidzW+ZsalQvWC0lERoDel3V7yLUeIZg==",
+  "success": true,
+  "projectFilePath": "/Users/dmitrypeschansky/Projects/ZooManagementSystem/ConsoleApp/ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/dmitrypeschansky/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.2/microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "/Users/dmitrypeschansky/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.2/microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
